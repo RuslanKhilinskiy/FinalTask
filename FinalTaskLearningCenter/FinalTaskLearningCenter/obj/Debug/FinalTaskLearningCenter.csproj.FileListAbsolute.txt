@@ -1,0 +1,7 @@
+D:\C#Learning\Labs\FinalTask\FinalTaskLearningCenter\FinalTaskLearningCenter\bin\Debug\FinalTaskLearningCenter.exe.config
+D:\C#Learning\Labs\FinalTask\FinalTaskLearningCenter\FinalTaskLearningCenter\bin\Debug\FinalTaskLearningCenter.exe
+D:\C#Learning\Labs\FinalTask\FinalTaskLearningCenter\FinalTaskLearningCenter\bin\Debug\FinalTaskLearningCenter.pdb
+D:\C#Learning\Labs\FinalTask\FinalTaskLearningCenter\FinalTaskLearningCenter\obj\Debug\FinalTaskLearningCenter.csproj.AssemblyReference.cache
+D:\C#Learning\Labs\FinalTask\FinalTaskLearningCenter\FinalTaskLearningCenter\obj\Debug\FinalTaskLearningCenter.csproj.CoreCompileInputs.cache
+D:\C#Learning\Labs\FinalTask\FinalTaskLearningCenter\FinalTaskLearningCenter\obj\Debug\FinalTaskLearningCenter.exe
+D:\C#Learning\Labs\FinalTask\FinalTaskLearningCenter\FinalTaskLearningCenter\obj\Debug\FinalTaskLearningCenter.pdb
